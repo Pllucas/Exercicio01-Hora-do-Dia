@@ -27,3 +27,7 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+#imagem img{
+    border-radius: 50%;
+}
